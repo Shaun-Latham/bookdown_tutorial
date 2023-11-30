@@ -1,5 +1,3 @@
-eq:binom
-thm:tri
 introduction
 unsupervised-learning
 introduction-1
@@ -10,15 +8,3 @@ k-means-analysis
 predict-a-species
 supervised-learning
 introduction-2
-parts
-footnotes-and-citations
-footnotes
-citations
-blocks
-equations
-theorems-and-proofs
-callout-blocks
-sharing-your-book
-publishing
-pages
-metadata-for-sharing
